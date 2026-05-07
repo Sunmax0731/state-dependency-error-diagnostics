@@ -1,0 +1,19 @@
+{
+  "name": "state-dependency-error-diagnostics",
+  "title": "状態可視化・依存関係・エラー診断",
+  "domain": "BlenderAddon",
+  "kind": "blender-addon",
+  "host": null,
+  "field": "Blender診断",
+  "audience": "Blenderでシーン状態、依存、エラーを追う制作者",
+  "workflow": "シーン状態、依存関係、ログ、エラー候補を収集し、次の修復アクションへつなげる。",
+  "requiredFields": [
+    "sceneName",
+    "dependencyName",
+    "status",
+    "repairHint"
+  ],
+  "warningField": "externalLinkMissing",
+  "warningMessage": "外部参照の存在確認が必要です。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}

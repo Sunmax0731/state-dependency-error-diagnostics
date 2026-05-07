@@ -1,0 +1,32 @@
+{
+  "pickupRank": 57,
+  "domain": "BlenderAddon",
+  "ideaNo": 1,
+  "idea": "状態可視化・依存関係・エラー診断",
+  "repository": "state-dependency-error-diagnostics",
+  "publish": "GitHub Release / BOOTH",
+  "createdIdeaFolder": "D:/AI/BlenderAddon/created_idea_001_state-dependency-error-diagnostics",
+  "zipFile": "D:/AI/BlenderAddon/created_idea_001_state-dependency-error-diagnostics/idea_001_state-dependency-error-diagnostics.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "state-dependency-error-diagnostics",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/BlenderAddon/Design.md",
+    "D:/AI/IDEAS/BlenderAddon/Architecture.md",
+    "D:/AI/IDEAS/BlenderAddon/AGENTS.md",
+    "D:/AI/IDEAS/BlenderAddon/SKILL.md",
+    "D:/AI/BlenderAddon/AGENTS.md",
+    "D:/AI/BlenderAddon/SKILL.md"
+  ],
+  "hostInference": null
+}
