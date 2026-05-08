@@ -1,0 +1,32 @@
+{
+  "product": "state-dependency-error-diagnostics",
+  "repository": "Sunmax0731/state-dependency-error-diagnostics",
+  "githubUrl": "https://github.com/Sunmax0731/state-dependency-error-diagnostics",
+  "tag": "v0.1.0-alpha.1",
+  "releaseUrl": "https://github.com/Sunmax0731/state-dependency-error-diagnostics/releases/tag/v0.1.0-alpha.1",
+  "prerelease": true,
+  "latest": false,
+  "assetCount": 3,
+  "assets": [
+    "state-dependency-error-diagnostics-docs.zip",
+    "manual-test.md",
+    "strict-manual-test-addendum.md"
+  ],
+  "platformRuntimeGate": "dist/platform-runtime-gate-result.json",
+  "platformType": "blender-addon",
+  "manualTest": "not-run-by-codex",
+  "qcdsEvaluation": {
+    "Quality": "S-",
+    "Cost": "S-",
+    "Delivery": "S-",
+    "Satisfaction": "S-",
+    "capReason": "manual-test-not-run-by-codex"
+  },
+  "github": {
+    "repo": "Sunmax0731/state-dependency-error-diagnostics",
+    "url": "https://github.com/Sunmax0731/state-dependency-error-diagnostics",
+    "releaseUrl": "https://github.com/Sunmax0731/state-dependency-error-diagnostics/releases/tag/v0.1.0-alpha.1",
+    "prerelease": true,
+    "latest": false
+  }
+}

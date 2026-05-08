@@ -1,0 +1,11 @@
+{
+  "product": "state-dependency-error-diagnostics",
+  "title": "状態可視化・依存関係・エラー診断",
+  "domain": "BlenderAddon",
+  "ideaNo": 1,
+  "platformType": "blender-addon",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
